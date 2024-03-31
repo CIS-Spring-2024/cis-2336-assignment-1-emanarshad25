@@ -34,7 +34,7 @@ footer {
 }
 
 button {
-    background-color: #007bff;
+    background-color: #c10000;
     color: white;
     border: none;
     padding: 10px 20px;
@@ -47,5 +47,13 @@ button {
 }
 
 button:hover {
-    background-color: #0056b3;
+    background-color: #c10000;
+}
+
+.headshot {
+    width: 150px; /* Adjust the size as needed */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Optional: creates a circular headshot */
+    margin: 10px 0; /* Adds some space above and below the image */
+    border: 3px solid #c10000; /* Optional: adds a border color */
 }
