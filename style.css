@@ -50,8 +50,8 @@ button:hover {
     background-color: #c10000;
 }
 
-.headshot {
-    width: 200px; /* Adjust the size as needed */
+.bio {
+    width: 100px; /* Adjust the size as needed */
     height: auto; /* Maintain aspect ratio */
     border-radius: 50%; /* Optional: creates a circular headshot */
     margin: 10px 0; /* Adds some space above and below the image */
